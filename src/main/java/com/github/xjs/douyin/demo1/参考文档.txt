@@ -1,0 +1,7 @@
+https://docs.oracle.com/javase/specs/jvms/se8/html/index.html
+
+指令集
+https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-6.html#jvms-6.5
+
+设置VM-Option
+-Djava.lang.Integer.IntegerCache.high=2000
